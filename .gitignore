@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# The raw dataset is too large for git (150MB).
+# Download it from Kaggle and place it in data/ (see README).
+data/creditcard.csv
+
+# OS
+.DS_Store
+
+# AI assistant helper folders
+.agents/
+.claude/
