@@ -6,7 +6,8 @@ This project works through the problem the way a risk team would: not "how accur
 
 ## Links
 
-- **Live interactive dashboard**: *(add your Streamlit link here once deployed)*
+- **Live interactive dashboard**: https://fraud-detection--dashboard.streamlit.app
+
 
 ## What's inside
 
